@@ -45,6 +45,9 @@ Cria novo branch
 git checkout nome
 troca de branch
 
+git checkout -b novo-branch branch-base
+cria e muda para um novo branch criado com uma base em um existente
+
 git pull
 Puxa a atualização mais recente do servidor
 
