@@ -1,0 +1,52 @@
+
+BÁSICO
+
+git init
+Inicia o git
+
+git status
+Vê o status do git
+
+git add "nome do arquivo.extenção"
+Adiciona um arquivo ao git
+
+git add .
+Adiciona todas as pastas ao git
+
+git -m commit "nome do commit"
+Cria uma versão uma versão do programa
+
+git remote add origin URL
+Adiciona o local para upar
+
+git push --set-upstream origin master
+Upa para o github
+
+git pull
+Download para o pc local
+
+git remote add origin URL
+Adiciona o local para upar
+
+git reflog
+Vê as modificações feitas
+
+AVANÇADO
+
+git reset --hard ID
+Reseta o git para alguma versão específica pelo ID
+
+git branch
+Vê os branches
+
+git branch nome
+Cria novo branch
+
+git checkout nome
+troca de branch
+
+git pull
+Puxa a atualização mais recente do servidor
+
+git merge "nome"
+Puxa as atualizações de uma merge
