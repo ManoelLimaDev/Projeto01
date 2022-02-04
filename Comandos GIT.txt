@@ -52,4 +52,4 @@ git pull
 Puxa a atualização mais recente do servidor
 
 git merge "nome"
-Puxa as atualizações de uma merge
+Puxa as atualizações de um branch
